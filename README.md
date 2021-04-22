@@ -5,7 +5,7 @@ Aplicación de escritirio que permite buscar localidades y el clima respectivo d
 
 ## Iniciar programa 
 ```
-node start // node index.js 
+npm start // node index.js 
 
 ```
 
